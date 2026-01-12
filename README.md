@@ -1,3 +1,3 @@
 # task1-jenkins
 
-check
+check 1
